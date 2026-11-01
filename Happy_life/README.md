@@ -168,4 +168,4 @@ The project can be described as:
 - a personal life reminder device
 - a practical electronics project built with Arduino
 
-# End of Project Documentation
+# XXXXXXXXXXXXXXXXXXXXXXXX      End     XXXXXXXXXXXXXXXXXXXXXX
